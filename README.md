@@ -1,4 +1,6 @@
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ymgw55)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ymgw55)
 
 #### position
 Undergraduate
@@ -27,4 +29,4 @@ I'm a first year master's student at Shimodaira Lab, Department of System Scienc
 computer science, machine learning, mathematics
 
 #### Skill
-Python, C++, docker
+Python, Go, C++, docker, git
