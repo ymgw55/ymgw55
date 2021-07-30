@@ -29,6 +29,3 @@ I'm a first year master's student at Shimodaira Lab, Department of System Scienc
 
 #### Study
 computer science, machine learning, mathematics
-
-#### Skill
-Python, Go, C++, docker, git
