@@ -9,7 +9,7 @@
 
 
 #### education
-  * course: MCS in Machine Learning
+  * course: CS in Machine Learning
     institution: Shimodaira Lab, Department of System Science, Informatics, Kyoto University
     year: present
 
