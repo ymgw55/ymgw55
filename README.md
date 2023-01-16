@@ -1,8 +1,3 @@
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ymgw55/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ymgw55/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ymgw55/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ymgw55/discussion)
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ymgw55)
 
 <!--- 
