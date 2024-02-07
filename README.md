@@ -16,4 +16,4 @@
   * BSc in Mathematics, Nakano Lab, Department of Mathematics, Science, Kyoto University, 2020
 
 #### Biography
-I'm a doctoral student at Shimodaira Lab, Department of System Science, Informatics, Kyoto University. My resarch interests lie in Machine Learning, especially Natural Language Processing and Optimal Transport.
+I'm a doctoral student at Shimodaira Lab, Department of System Science, Informatics, Kyoto University. My research interests lie in Machine Learning, especially Natural Language Processing and Optimal Transport.
