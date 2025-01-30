@@ -8,7 +8,7 @@
 [https://ymgw55.github.io/](https://ymgw55.github.io/)
 
 #### Biography
-My name is Hiroaki Yamagiwa. I'm a third year P.h.D student at [Shimodaira Lab, Kyoto University]("http://stat.sys.i.kyoto-u.ac.jp/").
+My name is Hiroaki Yamagiwa. I'm a final year P.h.D student at [Shimodaira Lab, Kyoto University](http://stat.sys.i.kyoto-u.ac.jp/).
 
 #### Research Interests
 - The properties of embeddings, especially their distributions and interpretability.
