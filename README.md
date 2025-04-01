@@ -8,14 +8,14 @@
 [https://ymgw55.github.io/](https://ymgw55.github.io/)
 
 #### Biography
-My name is Hiroaki Yamagiwa. I'm a final year P.h.D student at [Shimodaira Lab, Kyoto University](http://stat.sys.i.kyoto-u.ac.jp/).
+My name is Hiroaki Yamagiwa. I'm an Assistant Professor at [Shimodaira Lab, Kyoto University](http://stat.sys.i.kyoto-u.ac.jp/).
 
 #### Research Interests
 - The properties of embeddings, especially their distributions and interpretability.
 - Understanding the internal structure of language models.
 
 #### Contact
-- hiroaki.yamagiwa [at] sys.i.kyoto-u.ac.jp (Please replace [at] with @)
+- ymgw55 [at] gmail.com (Please replace [at] with @)
 - Alternatively, you can reach out to me via direct message on X or LinkedIn.
 
 #### Research Profiles
@@ -32,6 +32,6 @@ My name is Hiroaki Yamagiwa. I'm a final year P.h.D student at [Shimodaira Lab, 
 - [Kaggle](https://www.kaggle.com/ymgw55)
 
 #### Education
-- PhD student in Informatics, Graduate School of Informatics, Kyoto University, 2022-present.
+- PhD student in Informatics, Graduate School of Informatics, Kyoto University, 2022-2025.
 - MSc in Informatics, Graduate School of Informatics, Kyoto University, 2020-2022.
 - BSc in Mathematics, Department of Mathematics, Kyoto University, 2015-2020.
