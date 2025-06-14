@@ -32,6 +32,6 @@ My name is Hiroaki Yamagiwa. I'm an Assistant Professor at [Shimodaira Lab, Kyot
 - [Kaggle](https://www.kaggle.com/ymgw55)
 
 #### Education
-- PhD student in Informatics, Graduate School of Informatics, Kyoto University, 2022-2025.
+- PhD in Informatics, Graduate School of Informatics, Kyoto University, 2022-2025.
 - MSc in Informatics, Graduate School of Informatics, Kyoto University, 2020-2022.
 - BSc in Mathematics, Department of Mathematics, Kyoto University, 2015-2020.
