@@ -1,9 +1,3 @@
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ymgw55)
-
-<!--- 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ymgw55)
---->
-
 #### Portfolio
 [https://ymgw55.github.io/](https://ymgw55.github.io/)
 
