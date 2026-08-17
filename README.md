@@ -2,7 +2,7 @@
 [https://ymgw55.github.io/](https://ymgw55.github.io/)
 
 #### Biography
-My name is Hiroaki Yamagiwa. I'm an Assistant Professor at [Shimodaira Lab, Kyoto University](http://stat.sys.i.kyoto-u.ac.jp/).
+My name is Hiroaki Yamagiwa.  I'm a research scientist at [SB Intuitions Corp](https://www.sbintuitions.co.jp/en).
 
 #### Research Interests
 - The properties of embeddings, especially their distributions and interpretability.
